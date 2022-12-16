@@ -1,5 +1,7 @@
 # yo-xing.github.io
 ## Final Project for MUSIGR6610 - SOUND: ADVANCED TOPICS at Columbia University
+
+## Investigating the role of Artificial Intelligence in Music with JukeBox and the Amen Break
 ### Yo Jeremijenko-Conley  
 
 #### Motivation
