@@ -21,7 +21,8 @@ To better understand the current capabilities and limitations of AI in music gen
 The prior models are then trained to learn the distribution of the music encoded by the VQ-VAE and generate music in this compressed space. Similar to the VQ-VAE models, there are three levels of priors, a top level prior that generates the music in the most compressed space, and then two priors that upsample, generating less compressed audio conditional on the top level prior’s output. The top level prior is essential for modeling the overall structure of the music, and has very low audio quality, but still captures basic semantics such as the melody or voices. The middle and bottom upsampling priors add more local musical semantics like timbre, and improves the overall quality of the audio. Attached below is the output of a generated sample at each of the three levels:
 
 
-!video[ title ]( [url](https://user-images.githubusercontent.com/40434203/208739339-d45ad3c5-f645-4cd1-9dc9-8f49f23c3e92.mp4) ){ size=10 }
+
+{% include youtube.html id="JLMbpiywVxQ" %}
 
 https://user-images.githubusercontent.com/40434203/208739339-d45ad3c5-f645-4cd1-9dc9-8f49f23c3e92.mp4
 
