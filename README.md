@@ -22,7 +22,8 @@ The prior models are then trained to learn the distribution of the music encoded
 
 
 
-{% include youtube.html id="JLMbpiywVxQ" %}
+
+[top level](https://user-images.githubusercontent.com/40434203/208739339-d45ad3c5-f645-4cd1-9dc9-8f49f23c3e92.mp4)
 
 https://user-images.githubusercontent.com/40434203/208739339-d45ad3c5-f645-4cd1-9dc9-8f49f23c3e92.mp4
 
