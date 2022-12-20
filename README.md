@@ -39,7 +39,7 @@ These prior models are trained using Sparse transformers, each containing 72 lay
 
 To investigate JukeBox’s understanding and interpretation of different genres and artists, I decided to produce a number of samples using the same audio input, while changing the genre and artist parameters and holding all else equal. I decided to use the Amen Break as the audio input for the model. 
 
-https://user-images.githubusercontent.com/40434203/208737965-e2e5895a-9d74-497b-a30b-c7bdc3270295.mp4
+[The Amen Break - Six second sample](https://drive.google.com/file/d/1e3xXfnYlhkfcvIXA-MORcVo5q_Z1QUto/view?usp=share_link)
 
 
 Originally released as a part of "Color Him Father" by the soul group the Winstons, the Amen Break is a widely sampled drum break that has been used in thousands of songs in many different genres, it is believed to be one of the most sampled recordings in history. It appears in songs such as "Straight Outta Compton" by N.W.A and "Keep It Going Now" by Rob Base and even the Futurama theme song. I thought that this would make it a very interesting input audio file, as it is likely included in a large portion of the songs that JukeBox was trained on. Additionally, it is an example of the social problem of sampling and plagiarism in the music industry as a whole, while generative AI like JukeBox will only increase the complexity of these issues in the future. Sadly, the Amen Break's performer, Gregory Coleman, received no royalties for the sample, despite it being widely used, and passed away homeless in 2006, unaware of the astounding impact he had made on music. 
