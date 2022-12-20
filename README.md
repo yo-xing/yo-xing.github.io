@@ -23,7 +23,7 @@ The prior models are then trained to learn the distribution of the music encoded
 
 
 
-[top level]([https://drive.google.com/file/d/1e3xXfnYlhkfcvIXA-MORcVo5q_Z1QUto/view?usp=share_link](https://drive.google.com/file/d/1AHoF42S0TAQgeaL0c2aoZpCZsF9uHMp8/view?usp=share_link))
+[top level](https://drive.google.com/file/d/1e3xXfnYlhkfcvIXA-MORcVo5q_Z1QUto/view?usp=share_link)
 
 https://user-images.githubusercontent.com/40434203/208739339-d45ad3c5-f645-4cd1-9dc9-8f49f23c3e92.mp4
 
