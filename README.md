@@ -25,11 +25,10 @@ The prior models are then trained to learn the distribution of the music encoded
 
 [top level](https://drive.google.com/file/d/1AHoF42S0TAQgeaL0c2aoZpCZsF9uHMp8/view?usp=sharing)
 
-https://user-images.githubusercontent.com/40434203/208739339-d45ad3c5-f645-4cd1-9dc9-8f49f23c3e92.mp4
+[middle level](https://drive.google.com/file/d/1WCSQKTXc-Ev_c-stTAAQS5y0snd5o4az/view?usp=share_link)
 
-https://user-images.githubusercontent.com/40434203/208739386-49b4993d-0580-4a21-b5bc-dc529b4c573e.mp4
+[bottom level](https://drive.google.com/file/d/1Zl4fHxYXYAq7qJ1KXULl_oNxyb5ogp39/view?usp=share_link)
 
-https://user-images.githubusercontent.com/40434203/208739421-f3d4bbda-e30d-4cd5-9832-8b3fd0568ecb.mp4
 
 These prior models are trained using Sparse transformers, each containing 72 layers of factorization over a context of 8192 codes, for the top level this corresponds to 24 seconds of audio, while it corresponds to 6 seconds on the middle level prior and 1.5 seconds on the bottom level.
 	To curate the dataset for training JukeBox, OpenAI crawled the web and gathered 1.2 million songs, half of which were in english, along with corresponding lyrics and metadata such as genre, album, artist, mood and release date from LyicWiki. It is unlikely that artists were asked for consent/permission to use thier songs, or the associated metadata. OpenAI is not currently making any profit directly from JukeBox as it is free open source software, however it is possible that they profit from later versions of the software, or that third party individuals are currently making profit using the software. 
